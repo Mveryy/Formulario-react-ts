@@ -16,7 +16,7 @@ Esta é uma solução para o [Intro component with sign-up form](https://www.fro
 
 ## Links
 
-Link: https://mveryy.github.io/Intro-component-with-sign-up-form/
+Link: https://formulario-react-ts.vercel.app/
 
 ## Aprendizados
 
