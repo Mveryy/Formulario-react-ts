@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply h-screen bg-bgMobile bg-[#ff7a7a] lg:bg-bgDesktop
+}
+
+input {
+  @apply p-4 rounded font-semibold ring-1 ring-[#b9b6d3] relative outline-none text-[#3e3c49]
+}
+
+.error {
+  @apply italic text-xs mt-2 text-[#ff7a7a] text-right font-medium
+}
+
+.dropShadow {
+  box-shadow: 0 0.5em 0 0 rgba(0, 0, 0, 0.151)
+}
